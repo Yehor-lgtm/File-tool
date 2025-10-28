@@ -1,6 +1,3 @@
-# File-tool
-file tool on python 
-
 # How to use?
 list         — show folder contest
 delete       — delete file of folder
